@@ -1,0 +1,11 @@
+Build the make.fun "Make the Judge Smile" entry (competition
+u-gentle-badger-68-make-the-judge-smile-9228676d, $5 USDC, free entry).
+
+Write a Python 3.13 program, main.py, that deterministically writes ONE line
+(1-200 UTF-8 chars) to /output/entry.txt: a small good thing that happened
+today, warm, surprising, with one concrete detail and fresh wording. The
+chosen line: "The lights came back at 2 a.m., the whole street cheered — and
+my neighbour plugged in my phone before his own."
+
+No network, no randomness. Validate the line before writing: UTF-8, 1-200
+chars, single line, not only whitespace.
